@@ -34,3 +34,30 @@ table {
     height: 80px;
     border-radius: 10px;
 }
+.his {
+    background-color: rgb(230, 160, 30);
+}
+.ing {
+    background-color: rgb(158, 255, 200);
+}
+.titulo {
+    background-color: rgb(132, 216, 252);
+}
+.eduf {
+    background-color: rgb(254, 145, 141);
+}
+.mate {
+    background-color: rgb(228, 169, 255);
+}
+.cienc {
+    background-color: rgb(84, 144, 255);
+}
+.art {
+    background-color: rgb(200, 112, 255);
+}
+.taller  {
+    background-color: rgb(231, 91, 126);
+}
+.dias {
+    background-color: rgb(237, 92, 25);
+}
